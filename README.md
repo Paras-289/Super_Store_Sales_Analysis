@@ -1,8 +1,6 @@
-# Super_Store_Sales_Analysis
-Retail Sales Analysis in Excel with data cleaning, PivotTables, KPIs, dashboard, and actionable business insights
 <div align="center">
 
- Superstore Sales Analysis
+# 📊 Superstore Sales Analysis
 
 ### End-to-end Retail Sales Analysis using Microsoft Excel
 
@@ -118,6 +116,25 @@ The primary objective of this project is to analyze retail sales data and answer
 
 ---
 
+## 📋 Dashboard Features
+
+The interactive Excel dashboard includes:
+
+- 🎛️ Executive KPI Cards
+- 📈 Monthly Sales Trend
+- 🗺️ Sales by Region
+- 🥧 Category Contribution
+- 🧩 Segment Analysis
+- 🏆 Top 10 Customers
+- 🏆 Top 10 Products
+- 🎚️ Interactive Slicers
+- 📅 Timeline Filter
+
+> 💡 *Add a screenshot of your dashboard here for maximum impact:*
+> `![Dashboard Preview](images/dashboard-preview.png)`
+
+---
+
 ## 🔍 Key Findings
 
 - Identified high-performing regions and categories driving overall revenue.
@@ -172,6 +189,9 @@ Superstore-Sales-Analysis/
 *Aspiring Data Analyst*
 
 **Skills:** Microsoft Excel · SQL · Python · Pandas · Power BI · Data Visualization · Business Analytics
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](#)
 
 ---
 
